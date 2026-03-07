@@ -21,7 +21,7 @@ export default {
       const res = await fetchJson(`https://tenor.googleapis.com/v2/featured?key=AIzaSyAyimkuYQYF_FXVALexPuGQctUWRURdCYQ&contentfilter=high&media_filter=png_transparent&component=proactive&collection=emoji_kitchen_v5&q=${encodeURIComponent(emoji1)}_${encodeURIComponent(emoji2)}`)
       if (!res.results || res.results.length === 0) throw new Error('《✧》 No se encontraron stickers para esos emojis.')
       for (let result of res.results) {
-        const tmpFile = `./tmp-${Date.now()}.webp`
+        const tmpFile = `./tmp/emojimix-${Date.now()}.webp`
         const buffer = await (await fetch(result.url)).arrayBuffer()
         await fs.writeFileSync(tmpFile, Buffer.from(buffer))
         await client.sendImageAsSticker(m.chat, tmpFile, m, { packname: texto1, author: texto2 })
