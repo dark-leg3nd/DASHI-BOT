@@ -26,7 +26,7 @@ botAdmin: '《✧》 Este comando solo puede ser ejecutado si el Socket es Admin
 }
 
 global.APIs = {
-adonix: { url: "https://api-adonix.ultraplus.click", key: "Yuki-WaBot" },
+axi: { url: "https://apiaxi.i11.eu", key: null },
 vreden: { url: "https://api.vreden.web.id", key: null },
 nekolabs: { url: "https://api.nekolabs.web.id", key: null },
 siputzx: { url: "https://api.siputzx.my.id", key: null },
