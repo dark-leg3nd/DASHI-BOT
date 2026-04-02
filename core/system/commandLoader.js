@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 global.comandos = new Map();
 global.plugins = {};
 const pluginCache = new Map();
-const commandsFolder = path.join(__dirname, "../../commands");
+const commandsFolder = path.join(__dirname, "../../cmds");
 
 async function seeCommands(dir = commandsFolder) {
   const items = fs.readdirSync(dir);
