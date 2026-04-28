@@ -5,17 +5,17 @@ function initDB(m, client) {
 
   const settings = global.db.data.settings[jid] ||= {}
   settings.self ??= false
-  settings.prefix ??= ['/', '!', '.', '#']
+  settings.prefix ??= ['/', '#']
   settings.commandsejecut ??= isNumber(settings.commandsejecut) ? settings.commandsejecut : 0
   settings.id ??= '120363401404146384@newsletter'
-  settings.nameid ??= "'ೃ࿔ ყµҡเ ωαɓσƭ'ร - σƒƒเ૮เαℓ ૮ɦαɳɳεℓ .ೃ࿐"
+  settings.nameid ??= "—͟͞𝐃𝐀𝐒𝐇'𝐈 𝐂𝐋𝐔𝐁 | 𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐀𝐍𝐍𝐄𝐋"
   settings.type ??= 'Owner'
   settings.link ??= 'https://api.yuki-wabot.my.id'
   settings.banner ??= 'https://cdn.yuki-wabot.my.id/files/tCVD.jpeg'
   settings.icon ??= 'https://cdn.yuki-wabot.my.id/files/PJDp.jpeg'
-  settings.currency ??= 'Yenes'
-  settings.namebot ??= 'Yuki'
-  settings.botname ??= 'Yuki Suou'  
+  settings.currency ??= 'Jordans'
+  settings.namebot ??= 'ayanokouji'
+  settings.botname ??= 'kjyotaka'  
   settings.owner ??= ''
 
   const user = global.db.data.users[m.sender] ||= {}
