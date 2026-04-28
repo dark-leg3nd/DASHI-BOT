@@ -1,0 +1,152 @@
+{
+  "10292336": {
+    "name": "Blue Archive",
+    "tags": ["BA"],
+    "characters": [
+      {
+        "id": "815839",
+        "name": "Aru",
+        "gender": "Mujer",
+        "tags": ["aru_(blue_archive)"],
+        "value": 7890
+      },
+      {
+        "id": "815831",
+        "name": "Azusa Swimsuit",
+        "gender": "Mujer",
+        "tags": ["azusa_(swimsuit)_(blue_archive)"],
+        "value": 7000
+      },
+      {
+        "id": "815832",
+        "name": "Yuuka Pijama",
+        "gender": "Mujer",
+        "tags": ["yuuka_(pajamas)_(blue_archive)"],
+        "value": 6643
+      },
+      {
+        "id": "815833",
+        "name": "Serika Swimsuit",
+        "gender": "Mujer",
+        "tags": ["serika_(swimsuit)_(blue_archive)"],
+        "value": 6623
+      },
+      {
+        "id": "958086",
+        "name": "Eimi",
+        "gender": "Mujer",
+        "tags": ["eimi_(blue_archive)"],
+        "value": 5601
+      },
+      {
+        "id": "710782",
+        "name": "Haruna",
+        "gender": "Mujer",
+        "tags": ["haruna_(blue_archive)"],
+        "value": 5597
+      },
+      {
+        "id": "622177",
+        "name": "Hifumi",
+        "gender": "Mujer",
+        "tags": ["hifumi_(blue_archive)"],
+        "value": 7417
+      },
+      {
+        "id": "621584",
+        "name": "Hina",
+        "gender": "Mujer",
+        "tags": ["hina_(blue_archive)"],
+        "value": 9012
+      },
+      {
+        "id": "310286",
+        "name": "Hoshino",
+        "gender": "Mujer",
+        "tags": ["hoshino_(blue_archive)"],
+        "value": 7399
+      },
+      {
+        "id": "581306",
+        "name": "Iori",
+        "gender": "Mujer",
+        "tags": ["iori_(blue_archive)"],
+        "value": 6946
+      },
+      {
+        "id": "855864",
+        "name": "Maki",
+        "gender": "Mujer",
+        "tags": ["maki_(blue_archive)"],
+        "value": 5926
+      },
+      {
+        "id": "617456",
+        "name": "Neru",
+        "gender": "Mujer",
+        "tags": ["neru_(blue_archive)"],
+        "value": 8485
+      },
+      {
+        "id": "235605",
+        "name": "Izumi",
+        "gender": "Mujer",
+        "tags": ["izumi_(blue_archive)"],
+        "value": 6142
+      },
+      {
+        "id": "240240",
+        "name": "Shiroko",
+        "gender": "Mujer",
+        "tags": ["shiroko_(blue_archive)"],
+        "value": 7377
+      },
+      {
+        "id": "271692",
+        "name": "Shun",
+        "gender": "Mujer",
+        "tags": ["shun_(blue_archive)"],
+        "value": 5479
+      },
+      {
+        "id": "817168",
+        "name": "Sumire",
+        "gender": "Mujer",
+        "tags": ["sumire_(blue_archive)"],
+        "value": 5553
+      },
+      {
+        "id": "163400",
+        "name": "Tsurugi",
+        "gender": "Mujer",
+        "tags": ["tsurugi_(blue_archive)"],
+        "value": 5466
+      },
+      {
+        "id": "932449",
+        "name": "Izuna",
+        "gender": "Mujer",
+        "tags": ["izuna_(blue_archive)"],
+        "value": 6055
+      },
+      {
+        "id": "302569",
+        "name": "Aris",
+        "gender": "Mujer",
+        "tags": ["aris_(blue_archive)"],
+        "value": 7888
+      },
+      {
+        "id": "521198",
+        "name": "Yuzu",
+        "gender": "Mujer",
+        "tags": ["yuzu_(blue_archive)"],
+        "value": 5488
+      },
+      {
+        "id": "725435",
+        "name": "Azusa",
+        "gender": "Mujer",
+        "tags": ["azusa_(blue_archive)"],
+        "value": 7362
+      },
