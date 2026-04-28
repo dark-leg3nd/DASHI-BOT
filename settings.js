@@ -7,16 +7,16 @@ global.botNumber = ''
 
 global.sessionName = 'Sessions/Owner'
 global.version = '^2.0 - Latest'
-global.dev = "porno de ★彡[ᴊɪɴᴡᴏᴏ]彡★"
+global.dev = "ᴅᴇᴠ ┆ ᴋᴊʏᴏᴛᴀᴋᴀ愛ᴀʏᴀɴᴏᴋᴏᴜᴊɪ"
 global.links = {
-api: 'https://api.yuki-wabot.my.id',
-channel: "https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n",
-github: "https://github.com/iamDestroy/YukiBot-MD",
-gmail: "thekingdestroy507@gmail.com"
+api: 'https:dashi.club',
+channel: "https://whatsapp.com/channel/0029Vb7fZs7EquiMC25pEZ1l",
+github: "",
+gmail: "lxnnexus@gmail.com"
 }
 global.my = {
 ch: '120363401404146384@newsletter',
-name: 'ೃ࿔ ყµҡเ ωαɓσƭร - σƒƒเ૮เαℓ ૮ɦαɳɳεℓ .ೃ࿐',
+name: '—͟͞𝐃𝐀𝐒𝐇'𝐈 𝐂𝐋𝐔𝐁 | 𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐂𝐇𝐀𝐍𝐍𝐄𝐋',
 }
 
 global.mess = {
